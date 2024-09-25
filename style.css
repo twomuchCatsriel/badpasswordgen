@@ -8,3 +8,11 @@ body{
 button{
     padding: 0.5%;
 }
+
+#length{
+    padding: 0.5%;
+}
+
+.moveDown{
+    margin-top: 2%;
+}
