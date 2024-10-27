@@ -4,7 +4,7 @@ const field = document.getElementById("field");
 const inputBox = document.getElementById("length");
 
 // other variables 
-const possibleCharacters = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPADFGHJKLZXCVBNM1234567890@£$€&/%/?*_-&";
+const possibleCharacters = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPADFGHJKLZXCVBNM1234567890@£$€&/%!?*_-&";
 
 // functions
 function check(num){ // check if the number is within boundaries
